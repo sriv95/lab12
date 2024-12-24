@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int fibonacci(int x=0);
+int fibonacci(int);
 
 int main(){
     int x;
